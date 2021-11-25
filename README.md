@@ -7,5 +7,6 @@ Trying this out.
 | Name | Signature |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | ![alt text](https://raw.githubusercontent.com/henthornlab/FIT-400A/main/signature1.png)|
+| Paragraph |<img src="https://raw.githubusercontent.com/henthornlab/FIT-400A/main/signature1.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />|
 
