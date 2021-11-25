@@ -1,5 +1,5 @@
 # FIT-400A
 
-This is a test.
+This is a __test.
 
-__test__ and $ x = 4 $
+Trying this out.  
